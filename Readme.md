@@ -1,4 +1,8 @@
-# Responsive Image Slider using HTML CSS And JAVASCRIPT. 
-The slider contains Manual aswell as Autoplay Navigation.
-I do not own the Images. Images were downloded from Unsplash https://unsplash.com/
-For more of my projects you can find me at https://github.com/TushantMan
+# Responsive Image Slider
+###  Responsive Image Slider
+
+- Responsive Image Slider built using HTML, CSS, & JAVASCRIPT.
+- The slider contains Manual aswell as Autoplay Navigation with beautiful images.
+![slider](images/SliderGallery.gif)
+
+I don't own the photos used in this site. Images were downloded from [Unsplash](https://unsplash.com/)
